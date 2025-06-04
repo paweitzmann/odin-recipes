@@ -1,0 +1,12 @@
+/* style.css */
+
+* {
+    color: rgb(78, 45, 45);
+    background-color: rgb(207, 197, 139);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 64px;
+}
