@@ -6,7 +6,46 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
 h1 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 64px;
+}
+
+.main-title{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(189, 189, 189);
+    width: 500px;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    border: 5px outset rgb(151, 151, 151);
+}
+.homepage{
+    padding-left: 0;
+    list-style-type: none;
+}
+.homepage li{
+    margin: 24px;
+}
+
+.homepage a{
+    font-size: 28px;
+    
+    background-color: rgb(78, 45, 45);
+    color: rgb(207, 197, 139);
+
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    width: 240px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 8px;
 }
