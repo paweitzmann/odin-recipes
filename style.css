@@ -21,11 +21,11 @@ h1 {
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(189, 189, 189);
-    width: 500px;
+    width: auto;
     margin: 0 auto;
     padding: 5px;
     text-align: center;
-    border: 5px outset rgb(151, 151, 151);
+    border: 5px outset rgb(209, 209, 209);
 }
 .homepage{
     padding-left: 0;
